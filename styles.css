@@ -175,7 +175,7 @@ li {
 	margin-top: 3em;
 }
 
-@media screen and (min-width: 900px) {
+@media screen and (min-width: 750px) {
 	.img__left .grid__text {
 		grid-column: 2/3;
 		grid-row: 1/2;
